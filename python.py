@@ -1,1 +1,1 @@
-print("computer")
+print("code")
