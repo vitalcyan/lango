@@ -1,4 +1,4 @@
-$(info Code)
+$(info Hacktoberfest)
 
 .PHONY: main
 
